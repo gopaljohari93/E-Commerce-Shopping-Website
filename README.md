@@ -1,2 +1,2 @@
 # E-Commerce-Shopping-Website
-E-Commerce Shopping Website 
+Ecommerce Jewellery Website
